@@ -7,5 +7,5 @@ Curso básico de TypeScript.
 ## Stack utilizada
 
 
-**Back-end:** Node, TypeScript
+**Back-end:** Node, TypeScript, JavaScript
 
