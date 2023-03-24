@@ -1,7 +1,7 @@
 
 # Curso Typescript - Gama Academy
 
-Curso básico de TypeScript.
+Curso básico de Typescript.
 
 
 ## Stack utilizada
